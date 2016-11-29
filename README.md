@@ -1,11 +1,5 @@
-# Neighborhood Map Project
+# Neighborhood Map project
 
-- Load index.html to view application.
-The complete list of location buttons and corresponding map markers will appear on initial load.
-
-- Click Location list buttons on the left to briefly bounce the corresponding map marker.
-
-- Enter term into Search field to limit by location name or category.
-
-- Click on map marker to open infowindow with location details.
-Click on linked location title in infowindow to open corresponding Yelp entry in a new tab.
+## Notes
+You can open this project at: https://lindaallen.github.io/neighborhood-map
+You can open this project locally by opening index.html in a browser
