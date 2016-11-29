@@ -1,0 +1,35 @@
+body {
+  background-color: #eee;
+  height: 100%
+}
+
+.map-outer {
+  height: 100%;
+  padding: 20px;
+  border: 2px solid #eee;
+  margin-bottom: 20px;
+  background-color: #fff
+}
+
+.map-container {
+  height: 650px
+}
+
+.titlebar {
+  padding: 40px;
+  border: 2px solid #eee;
+  background-color: orange;
+  color: white
+}
+
+.search-field {
+  color: black;
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  height: 40px;
+  width: 100%;
+  vertical-align: middle
+}
